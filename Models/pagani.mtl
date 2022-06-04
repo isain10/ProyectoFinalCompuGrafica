@@ -1,0 +1,901 @@
+# Blender 3.1.0 MTL File: 'None'
+# www.blender.org
+
+newmtl Cockpit_LR
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\cockpit_lr.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\cockpit_lr_nm.dds
+
+newmtl Cockpit_LR_A
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\cockpit_lr.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\cockpit_lr_nm.dds
+
+newmtl Cockpit_LR_B
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\cockpit_lr.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\cockpit_lr_nm.dds
+
+newmtl Cockpit_LR_C
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\cockpit_lr.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\cockpit_lr_nm.dds
+
+newmtl EXT_BRAKEDISC
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\brake_disc.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\brake_disc_nm.dds
+
+newmtl EXT_CALIPER_DECAL
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\ext_decals.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\ext_decals_nm.dds
+
+newmtl EXT_Caliper
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\ext_caliper.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\flat_nm.dds
+
+newmtl EXT_Carbon1
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\ext_skin.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\damage_nm.dds
+
+newmtl EXT_Carbon2
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\ext_skin.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\damage_nm.dds
+
+newmtl EXT_Carbon3
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\ext_skin.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\damage_nm.dds
+
+newmtl EXT_Damage_glass
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\damage_glass_color.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\damage_glass.dds
+
+newmtl EXT_Decal
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\ext_decals.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\ext_decals_nm.dds
+
+newmtl EXT_Decal2
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\ext_decals2.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\ext_decals2_n.dds
+
+newmtl EXT_Decal2_chrome
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\ext_decals2.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\ext_decals2_n.dds
+
+newmtl EXT_Decal3
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\ext_decals3.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\ext_decals3_nm.dds
+
+newmtl EXT_Decal_METAL
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\ext_decals.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\ext_decals_nm.dds
+
+newmtl EXT_Decals_Metal_NM
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\ext_decals.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\ext_decals_nm.dds
+
+newmtl EXT_FRONT_Light
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\ext_lights.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\ext_lights_nm.dds
+
+newmtl EXT_Flag
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\ext_flag.dds
+
+newmtl EXT_Glassgrid
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\ext_glass_grid.dds
+
+newmtl EXT_Grid
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\grid_esagon.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\grid_esagon_nm.dds
+
+newmtl EXT_LIGHTGLASS
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\ext_light_glass.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\ext_light_glass_nm.dds
+
+newmtl EXT_MECHANICS_PLASTIC
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\ext_chassis.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\flat_nm.dds
+
+newmtl EXT_MECHANICS_Rubber
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\ext_chassis.dds
+
+newmtl EXT_MECHANICS_flat
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\ext_chassis.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\flat_nm.dds
+
+newmtl EXT_MECHANICS_metal
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\ext_chassis.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\flat_nm.dds
+
+newmtl EXT_MIRROR
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\mirror.dds
+
+newmtl EXT_Mechanics_chrome
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\ext_chassis.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\flat_nm.dds
+
+newmtl EXT_PLATE
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\plate_d.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\plate_nm.dds
+
+newmtl EXT_Plastic_shinny
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\ext_skin.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\damage_nm.dds
+
+newmtl EXT_REAR_Light
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\ext_lights.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\ext_lights_nm.dds
+
+newmtl EXT_RIM
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\ext_rim.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\flat_nm.dds
+
+newmtl EXT_RIM_SPOKES
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\rim_detail_1.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\ext_rim_spokes.dds
+
+newmtl EXT_Rim_DECAL
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\ext_decals.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\ext_decals_nm.dds
+
+newmtl EXT_WHEEL
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\tyre_d.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\tyre_nm.dds
+
+newmtl EXT_glass
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\ext_glass.dds
+
+newmtl EXT_glass_black
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\ext_glass.dds
+
+newmtl EXT_painted_metal
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\ext_skin.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\flat_nm.dds
+
+newmtl EXT_rim_paint
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\ext_rim.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\flat_nm.dds
+
+newmtl EXT_rubber
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\ext_skin.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\flat_nm.dds
+
+newmtl INT_Black_Flat
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\int_decals.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\int_decals_nm.dds
+
+newmtl INT_Cinture
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\cinture.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\cinture_n.dds
+
+newmtl INT_Decal
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\int_decals.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\int_decals_nm.dds
+
+newmtl INT_Decals2
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\int_decals2.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\int_decals2_nm.dds
+
+newmtl INT_Decals2_Chrome
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\int_decals2.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\int_decals2_nm.dds
+
+newmtl INT_Decals_Blend
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\int_decals.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\int_decals_nm.dds
+
+newmtl INT_Decals_Flat_AT
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\int_decals.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\int_decals_nm.dds
+
+newmtl INT_Decals_Pagani
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\int_decals.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\int_decals_nm.dds
+
+newmtl INT_Display_Refl
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\int_decals.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\int_decals_nm.dds
+
+newmtl INT_Glassgrid
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\ext_glass_grid.dds
+
+newmtl INT_Key
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\plastic_gray.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\key_nm.dds
+
+newmtl INT_LCD
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\int_lcd.dds
+
+newmtl INT_Metal_Refl
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\int_decals.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\int_decals_nm.dds
+
+newmtl INT_Metal_Refl_AT
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\int_decals.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\int_decals_nm.dds
+
+newmtl INT_OCC_Alcantara
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\int_occ.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\flat_nm.dds
+
+newmtl INT_OCC_Carbon
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\int_occ.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\flat_nm.dds
+
+newmtl INT_OCC_Carbon_2
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\int_occ.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\flat_nm.dds
+
+newmtl INT_OCC_Carpet
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\int_occ.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\flat_nm.dds
+
+newmtl INT_OCC_Leather_Red
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\int_occ.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\flat_nm.dds
+
+newmtl INT_OCC_Metal
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\int_occ.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\flat_nm.dds
+
+newmtl INT_OCC_Plastic
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\int_occ.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\flat_nm.dds
+
+newmtl INT_OCC_Plastic_Red
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\int_occ.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\flat_nm.dds
+
+newmtl INT_OCC_Rubber
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\int_occ.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\flat_nm.dds
+
+newmtl INT_OCC_Stoffa
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\int_occ.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\flat_nm.dds
+
+newmtl INT_Pedals
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\pedali.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\pedali_nm.dds
+
+newmtl INT_Plastic_Flat
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\int_decals.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\int_decals_nm.dds
+
+newmtl INT_Plastic_Refl
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\int_decals.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\int_decals_nm.dds
+
+newmtl INT_Plastic_Refl_AT
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\int_decals.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\int_decals_nm.dds
+
+newmtl INT_Stitching
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\int_stitching.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\int_stitching_nm.dds
+
+newmtl INT_display_LUMINOSO
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\int_decals.dds
+
+newmtl INT_glass
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\int_glass.dds
+
+newmtl INT_glass_black
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\ext_glass.dds
+
+newmtl Light_Material
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.900000 0.900000 0.900000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd  c:\users\alero\onedrive\escritorio\fiesta\lights_diff.png
+map_Bump  -bm 1.000000 c:\users\alero\onedrive\escritorio\fiesta\flat_nm.dds
+
+newmtl Material.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.052619 0.066229 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl light_chrome
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\ext_lights.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\ext_lights_nm.dds
+
+newmtl light_flat
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  C:\Users\alero\OneDrive\Escritorio\modelo coches\ext_lights.dds
+map_Bump  -bm 1.000000 C:\Users\alero\OneDrive\Escritorio\modelo coches\ext_lights_nm.dds

@@ -1,0 +1,323 @@
+# Blender 3.1.0 MTL File: 'None'
+# www.blender.org
+
+newmtl Badge_Material
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.900000 0.900000 0.900000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd  c:\users\alero\onedrive\escritorio\fiesta\badge_diff.dds
+map_Bump  -bm 1.000000 c:\users\alero\onedrive\escritorio\fiesta\badge_nm.png
+
+newmtl Base_Material
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.900000 0.900000 0.900000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd  c:\users\alero\onedrive\escritorio\fiesta\ac_black.dds
+
+newmtl CHROME
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.900000 0.900000 0.900000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd  c:\users\alero\onedrive\escritorio\fiesta\basetiradores.dds
+map_Bump  -bm 1.000000 c:\users\alero\onedrive\escritorio\fiesta\flat_nm.dds
+
+newmtl CalliperGloss_Material
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.900000 0.900000 0.900000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd  c:\users\alero\onedrive\escritorio\fiesta\body_wheel.dds
+map_Bump  -bm 1.000000 c:\users\alero\onedrive\escritorio\fiesta\flat_nm.dds
+
+newmtl Coloured_Material
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.900000 0.900000 0.900000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd  c:\users\alero\onedrive\escritorio\fiesta\ac_black.dds
+
+newmtl EXT_PLATE_plastic
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.900000 0.900000 0.900000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd  c:\users\alero\onedrive\escritorio\fiesta\plate_d.dds
+map_Bump  -bm 1.000000 c:\users\alero\onedrive\escritorio\fiesta\plate_nm.dds
+
+newmtl Engine_Material
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.900000 0.900000 0.900000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd  c:\users\alero\onedrive\escritorio\fiesta\engine_diff.png
+map_Bump  -bm 1.000000 c:\users\alero\onedrive\escritorio\fiesta\engine_nm.png
+
+newmtl FEUX_AR
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.900000 0.900000 0.900000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd  c:\users\alero\onedrive\escritorio\fiesta\feux_ar.png
+
+newmtl FEUX_AR_RED_GLASS
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.900000 0.900000 0.900000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd  c:\users\alero\onedrive\escritorio\fiesta\glass_feux_ar.dds
+
+newmtl Glass_Material
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.900000 0.900000 0.900000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd  c:\users\alero\onedrive\escritorio\fiesta\glass_phare.dds
+
+newmtl Grille1_Material
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.900000 0.900000 0.900000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd  c:\users\alero\onedrive\escritorio\fiesta\grille1_diff.png
+map_Bump  -bm 1.000000 c:\users\alero\onedrive\escritorio\fiesta\grille1_nm.png
+
+newmtl InteriorTillingColourZone_Material
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.900000 0.900000 0.900000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd  c:\users\alero\onedrive\escritorio\fiesta\int_seat_color.png
+map_Bump  -bm 1.000000 c:\users\alero\onedrive\escritorio\fiesta\int_til_color_nm.png
+
+newmtl InteriorTilling_Material
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.900000 0.900000 0.900000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd  c:\users\alero\onedrive\escritorio\fiesta\int_til_diff.png
+map_Bump  -bm 1.000000 c:\users\alero\onedrive\escritorio\fiesta\int_til_nm.png
+
+newmtl Interior_Material
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.900000 0.900000 0.900000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd  c:\users\alero\onedrive\escritorio\fiesta\int_diffuse.png
+map_Bump  -bm 1.000000 c:\users\alero\onedrive\escritorio\fiesta\int_nm.png
+
+newmtl LCD
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.900000 0.900000 0.900000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd  c:\users\alero\onedrive\escritorio\fiesta\lcd.dds
+
+newmtl Light_Material
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.900000 0.900000 0.900000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd  c:\users\alero\onedrive\escritorio\fiesta\lights_diff.png
+map_Bump  -bm 1.000000 c:\users\alero\onedrive\escritorio\fiesta\flat_nm.dds
+
+newmtl MIRROR
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.900000 0.900000 0.900000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd  c:\users\alero\onedrive\escritorio\fiesta\mirror_placement.png
+
+newmtl Paint_Material
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.900000 0.900000 0.900000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Bump  -bm 1.000000 c:\users\alero\onedrive\escritorio\fiesta\body_nm.dds
+
+newmtl SeatBelt_Material
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.900000 0.900000 0.900000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd  c:\users\alero\onedrive\escritorio\fiesta\ac_black.dds
+
+newmtl VEILLEUSE
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.900000 0.900000 0.900000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd  c:\users\alero\onedrive\escritorio\fiesta\veilleuses.dds
+
+newmtl WindowInside_Material
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.900000 0.900000 0.900000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd  c:\users\alero\onedrive\escritorio\fiesta\glass_int.dds
+
+newmtl Window_Material
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.900000 0.900000 0.900000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd  c:\users\alero\onedrive\escritorio\fiesta\glass.dds
+
+newmtl _3DWheel1A_Material
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.900000 0.900000 0.900000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd  c:\users\alero\onedrive\escritorio\fiesta\wheel_1a_diff.png
+map_Bump  -bm 1.000000 c:\users\alero\onedrive\escritorio\fiesta\wheel_1a_nm.png
+
+newmtl black_glass
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.900000 0.900000 0.900000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd  c:\users\alero\onedrive\escritorio\fiesta\ac_black.dds
+
+newmtl display
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.900000 0.900000 0.900000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd  c:\users\alero\onedrive\escritorio\fiesta\display.dds
+
+newmtl gauge_needle
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.900000 0.900000 0.900000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd  c:\users\alero\onedrive\escritorio\fiesta\interior_lod0.png
+
+newmtl plastic
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.900000 0.900000 0.900000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd  c:\users\alero\onedrive\escritorio\fiesta\interior_lod0.png
+map_Bump  -bm 1.000000 c:\users\alero\onedrive\escritorio\fiesta\flat_nm.dds
+
+newmtl tyre
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.900000 0.900000 0.900000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd  c:\users\alero\onedrive\escritorio\fiesta\wheel_1a_diff.png
+map_Bump  -bm 1.000000 c:\users\alero\onedrive\escritorio\fiesta\wheel_1a_nm.png
